@@ -12,25 +12,25 @@ python runme.py
 
 Controls
 ========
-`1234567890 toggles various characters for display
-~!@#$%^&*() selects only one character to display, corresponding to the above keys
-SPACE toggles space character
-TAB toggles 4 * space character
-ENTER toggles 8 * space character
-BACKSPACE clears all characters to be printed
+`1234567890 toggles various characters for display  
+~!@#$%^&*() selects only one character to display, corresponding to the above keys  
+SPACE toggles space character  
+TAB toggles 4 * space character  
+ENTER toggles 8 * space character  
+BACKSPACE clears all characters to be printed  
 B changes current character set (currently Double Pipes, Single Pipes, Card Suits, Numbers, and Shift Row)
 
--+ decreases/increases automatic sceen refreshing time (goes from 0.1 seconds to 60 seconds on a scale)
-P pauses/unpauses the program completely
-A turns on/off automatic screen refreshing
+-+ decreases/increases automatic sceen refreshing time (goes from 0.1 seconds to 60 seconds on a scale)  
+P pauses/unpauses the program completely  
+A turns on/off automatic screen refreshing  
 G generates a new screen immediately (can be slow with a large screen)
 
-C toggles through preset colour modes
-ARROW KEYS - resizes the window
+C toggles through preset colour modes  
+ARROW KEYS - resizes the window  
 F toggles fullscreen mode (window resizing is bad in this mode)
 
-S saves the current screen to an image (saved in /screenshots as a png file with a timestamp filename)
-W randomly selects another control
+S saves the current screen to an image (saved in /screenshots as a png file with a timestamp filename)  
+W randomly selects another control  
 ESCAPE ends the program
 
 NOTE: most keys can be held down to be rapidly used, including saving!
