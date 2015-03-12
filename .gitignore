@@ -1,0 +1,6 @@
+unidisplayEX.sublime-project
+unidisplayEX.sublime-workspace
+*.pyc
+setup.py
+screenshots
+dist
