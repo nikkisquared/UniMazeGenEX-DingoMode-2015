@@ -1,13 +1,11 @@
 UniMazeGenEX DingoMode 2015
 ==========================
 
-UniMazeGenEX DingoMode 2015 is a toy built on pygame and pygcurse that generates random displays of ASCII drawing characters. It features various controls to try to give the user a lot of  power, such as changing the colours, the range of characters being drawn, and taking screenshots.
+UniMazeGenEX DingoMode 2015 is a toy built on pygame and pygcurse that generates random displays of ASCII drawing characters. It features various controls to try to give the user a lot of power, such as changing the colours, the range of characters being drawn, and taking screenshots.
 
 Usage
 =====
-
-Requires pygame and python 2. pygcurse is provided.
-
+Requires python 2, pygame, and pygcurse (please get pygcurse from here: https://github.com/asweigart/pygcurse).  
 python runme.py
 
 Controls

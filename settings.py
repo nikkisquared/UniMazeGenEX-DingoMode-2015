@@ -21,6 +21,7 @@ from pygame.locals import *
 #! B to change character set
 #  ? to select all characters
 #! BACKSPACE to display nothing
+#  ? BACKSPACE toggles display none <> display all
 
 #! - and + to decrease and increase the rate of automatic change, using a scaling system
 #! P to pause/continue
@@ -154,7 +155,7 @@ CARDSUITS = {
         # white filled: heart, diamond, club, spades - WON'T DISPLAY :(
         #'4': u"\u2661",'5': u"\u2662", '6': u"\u2667", '7': u"\u2664",
         # nothing... yet
-        #'8': u"\u", '9': u"\u", '0': u"\u"
+        #'8': u"", '9': u"", '0': u""
 }
 
 # just some numbers
